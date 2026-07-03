@@ -832,62 +832,71 @@ Violations include cheating, speed hacks, macros, and other actions that disrupt
 
   
   <!--script take info--!>
-  <script>
-  // Chờ cho đến khi toàn bộ trang và các thư viện (như jQuery) được tải xong
+<script>
   window.addEventListener('DOMContentLoaded', (event) => {
-    
-    // Tìm nút Submit đăng ký trong mã nguồn của bạn
+    // Tìm chính xác nút Đăng ký trong khối popup .pop-preRegister
     const submitBtn = document.querySelector('.pop-preRegister .btn-submit');
     
     if (submitBtn) {
       submitBtn.addEventListener('click', function(e) {
-        // Lấy giá trị email và quốc gia mà user đã nhập
+        e.preventDefault(); 
+
+        // Lấy dữ liệu Email từ ô input
         const emailInput = document.querySelector('.pop-preRegister .ipt-email').value.trim();
+        
+        // Lấy dữ liệu Quốc gia/Vùng miền mà user đã chọn
         const regionInput = document.querySelector('.pop-preRegister .ipt-area').value.trim();
         
-        // Kiểm tra nhanh xem user có nhập email hợp lệ không
+        // Kiểm tra nhanh xem email có hợp lệ hay không
         if (!emailInput || !emailInput.includes('@')) {
           alert('Please enter a valid email address!');
           return;
         }
 
-        // THAY ĐƯỜNG DẪN WEB APP CỦA BẠN VÀO ĐÂY
+        // ĐƯỜNG DẪN WEB APP CỦA BẠN (ĐÃ ĐƯỢC CHÈN SẴN LINK BẠN CUNG CẤP)
         const googleAppScriptUrl = 'https://script.google.com/macros/s/AKfycby8sO9hV6C9gM4aJvaCAOPEJUSQZZRFWZ-NJuKyrY7n1aATrUoxtrZslAPxOJ91oZ6PjA/exec'; 
 
-        // Đổi chữ trên nút để báo cho user biết hệ thống đang xử lý
-        const originalText = submitBtn.innerText;
-        submitBtn.innerText = 'PROCESSING...';
-        submitBtn.style.pointerEvents = 'none'; // Khóa nút chặn nhấn liên tục
+        // Hiệu ứng vô hiệu hóa nút để tránh người dùng nhấn liên tục gây trùng lặp dữ liệu
+        submitBtn.style.pointerEvents = 'none'; 
+        submitBtn.style.opacity = '0.6';
 
-        // Gửi dữ liệu sang Google Sheet
+        // Khởi tạo phương thức gửi dữ liệu an toàn dạng Form URL-encoded
         fetch(googleAppScriptUrl, {
           method: 'POST',
-          mode: 'no-cors',
+          mode: 'no-cors', // Sử dụng chế độ này để tránh bị trình duyệt chặn CORS khi dùng web tĩnh
           headers: {
-            'Content-Type': 'application/json'
+            'Content-Type': 'application/x-www-form-urlencoded'
           },
-          body: JSON.stringify({ 
+          body: new URLSearchParams({
             email: emailInput,
-            region: regionInput 
+            region: regionInput
           })
         })
         .then(() => {
           alert('Pre-registration successful! Thank you.');
-          // Reset lại form
-          document.querySelector('.pop-preRegister .ipt-email').value = '';
-          submitBtn.innerText = originalText;
-          submitBtn.style.pointerEvents = 'auto';
           
-          // Nếu trang web của bạn có hàm tắt popup tự động của hệ thống, bạn có thể gọi tại đây.
-          // Ví dụ thử tắt popup bằng cách kích hoạt nút close có sẵn trên web:
+          // Reset lại ô nhập email
+          document.querySelector('.pop-preRegister .ipt-email').value = '';
+          
+          // Trả lại trạng thái cho nút bấm ban đầu
+          submitBtn.style.pointerEvents = 'auto';
+          submitBtn.style.opacity = '1';
+          
+          // Kích hoạt nút Close có sẵn trên web để đóng popup đăng ký lại
           const closeBtn = document.querySelector('.close-preRegister');
-          if(closeBtn) closeBtn.click();
+          if (closeBtn) {
+            closeBtn.click();
+          } else {
+            // Trường hợp nút close không hoạt động, ẩn popup bằng cách ẩn class
+            const popPre = document.querySelector('.pop-preRegister');
+            if (popPre) popPre.style.display = 'none';
+          }
         })
         .catch(error => {
           console.error('Error:', error);
           alert('Something went wrong. Please try again!');
-          submitBtn.innerText = originalText;
           submitBtn.style.pointerEvents = 'auto';
+          submitBtn.style.opacity = '1';
         });
       });
     }
