@@ -1,0 +1,31 @@
+{
+  "id": "/pwa/en",
+  "name": "Official Assistant",
+  "short_name": "Official Assistant",
+  "description": "Where Winds Meet Official Data Tool",
+  "start_url": "/m/2025h5sjgj/en/?source=pwa",
+  "scope": "/m/2025h5sjgj/en/",
+  "display": "standalone",
+  "theme_color": "#1a1a2e",
+  "background_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "https://www.wherewindsmeetgame.com/m/zt/20251121182818/data/en/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.wherewindsmeetgame.com/m/zt/20251121182818/data/en/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://www.wherewindsmeetgame.com/m/zt/20251121182818/data/en/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+import{I as e}from"./index-67f2100d.js";import{_ as n,r as t,o as r,c as s}from"./app-9b07739a.js";import"./pwa-4be4b5bb.js";import"./axios-28bc18a3.js";const c={components:{Index:e}};function p(a,_,m,d,f,i){const o=t("Index");return r(),s(o,{lang:"en"})}const $=n(c,[["render",p]]);export{$ as default};

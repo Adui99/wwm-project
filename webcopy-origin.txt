@@ -1,0 +1,2680 @@
+Uri: https://comm.res.easebar.com/css/art-rem.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\css\art-rem.css
+Content Type: text/css
+
+Uri: https://comm.res.easebar.com/h5f/h5fpics.min.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\h5f\h5fpics.min.js
+Content Type: application/javascript
+
+Uri: https://comm.res.easebar.com/js/jquery(mixNIE).1.11.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\jquery(mixNIE).1.11.js
+Content Type: application/javascript
+
+Uri: https://comm.res.easebar.com/js/leihuo/fonts/noto-sans-sc-v12-latin_chinese-simplified-regular.woff
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\leihuo\fonts\noto-sans-sc-v12-latin_chinese-simplified-regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://comm.res.easebar.com/js/leihuo/fonts/noto-sans-sc-v12-latin_chinese-simplified-regular.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\leihuo\fonts\noto-sans-sc-v12-latin_chinese-simplified-regular.woff2
+Content Type: 
+
+Uri: https://comm.res.easebar.com/js/nie/ref/css/swiper.3.4.1.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\nie\ref\css\swiper.3.4.1.css
+Content Type: text/css
+
+Uri: https://comm.res.easebar.com/js/nie/ref/fonts/fzcjljt.woff
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\nie\ref\fonts\fzcjljt.woff
+Content Type: application/x-font-woff
+
+Uri: https://comm.res.easebar.com/js/nie/ref/fonts/noto/noto-serif-sc-v22-latin_chinese-simplified-regular.woff
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\nie\ref\fonts\noto\noto-serif-sc-v22-latin_chinese-simplified-regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://comm.res.easebar.com/js/nie/ref/fonts/noto/noto-serif-sc-v22-latin_chinese-simplified-regular.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\nie\ref\fonts\noto\noto-serif-sc-v22-latin_chinese-simplified-regular.woff2
+Content Type: 
+
+Uri: https://comm.res.easebar.com/js/nie/ref/jquery.nicescroll.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\nie\ref\jquery.nicescroll.js
+Content Type: application/javascript
+
+Uri: https://comm.res.easebar.com/js/nie/ref/swiper.3.4.1.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\nie\ref\swiper.3.4.1.js
+Content Type: application/javascript
+
+Uri: https://comm.res.easebar.com/js/nie/util/mshare/index.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\nie\util\mshare\index.js
+Content Type: application/javascript
+
+Uri: https://comm.res.easebar.com/js/vuebase.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\vuebase.js
+Content Type: application/javascript
+
+Uri: https://comm.res.easebar.com/js/zepto(mixNIE).last.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\js\zepto(mixNIE).last.js
+Content Type: application/javascript
+
+Uri: https://comm.res.easebar.com/load/authLogin.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\load\authLogin.js
+Content Type: application/javascript
+
+Uri: https://r.res.easebar.com/pic/20250512/046b05db-fd2d-49c1-9ea3-9b71152ce3a6.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250512\046b05db-fd2d-49c1-9ea3-9b71152ce3a6.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20250513/6b2f19ec-6d67-499a-ba95-7ec57e9e26f9.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250513\6b2f19ec-6d67-499a-ba95-7ec57e9e26f9.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20250515/18fb690a-b8cb-4975-b694-de00099451a6.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250515\18fb690a-b8cb-4975-b694-de00099451a6.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20250515/fb156b18-3fa5-4865-bab3-e4dbff5c15ba.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250515\fb156b18-3fa5-4865-bab3-e4dbff5c15ba.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20250630/3bbd91df-348a-4dd1-ac95-f264c794dff0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250630\3bbd91df-348a-4dd1-ac95-f264c794dff0.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20250630/8d568e4b-7cb0-437f-b94c-363bf96d8dc5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250630\8d568e4b-7cb0-437f-b94c-363bf96d8dc5.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20250723/11659ce1-7dfb-4be0-bf29-d83c9ef551ac.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250723\11659ce1-7dfb-4be0-bf29-d83c9ef551ac.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20250723/9ad72652-43bd-4d10-bb57-c60e69a6ca8d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250723\9ad72652-43bd-4d10-bb57-c60e69a6ca8d.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20250728/4569de20-3230-4cbb-a897-a425758a1cb0.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20250728\4569de20-3230-4cbb-a897-a425758a1cb0.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20251110/1a56be5c-710d-4ce9-aba1-6e31d2bf613e.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251110\1a56be5c-710d-4ce9-aba1-6e31d2bf613e.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20251110/2cc40663-ed63-4a92-aa10-329feec5f7fe.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251110\2cc40663-ed63-4a92-aa10-329feec5f7fe.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251110/83ca0a0e-f4e2-4546-9ae3-523206a2033c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251110\83ca0a0e-f4e2-4546-9ae3-523206a2033c.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251111/1f5d1b37-c793-4131-9cc9-f8c669047985.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251111\1f5d1b37-c793-4131-9cc9-f8c669047985.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20251111/99da00f6-d35e-4584-b75a-f7488e6851f6.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251111\99da00f6-d35e-4584-b75a-f7488e6851f6.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251113/36779d7d-fe32-497b-bd36-b5dcab46806c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251113\36779d7d-fe32-497b-bd36-b5dcab46806c.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251113/5904afa7-2283-47ed-a5a9-b7295c661b23.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251113\5904afa7-2283-47ed-a5a9-b7295c661b23.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251113/c2357d09-4cbf-4bce-a9b8-fc21de7def76.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251113\c2357d09-4cbf-4bce-a9b8-fc21de7def76.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251114/4cc3cd49-d41d-4508-97d1-f9aa5e62e792.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251114\4cc3cd49-d41d-4508-97d1-f9aa5e62e792.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20251115/4746a09c-c7b6-4786-a3b9-6248361e2d63.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251115\4746a09c-c7b6-4786-a3b9-6248361e2d63.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251115/c86c6e19-c79c-4738-b319-2c598e402650.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251115\c86c6e19-c79c-4738-b319-2c598e402650.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251123/de442895-ee5f-4e18-a3de-bd289dfdbafa.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251123\de442895-ee5f-4e18-a3de-bd289dfdbafa.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20251206/222beb11-855b-44b6-a3b1-ab85d54c4095.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251206\222beb11-855b-44b6-a3b1-ab85d54c4095.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20251208/de38f0a7-61b9-4d32-8f08-4c93cd4c36e2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251208\de38f0a7-61b9-4d32-8f08-4c93cd4c36e2.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251209/c2a5e097-f799-4fb8-bc78-6e68787e5c3f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251209\c2a5e097-f799-4fb8-bc78-6e68787e5c3f.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251209/f9d4b833-3f12-4410-8456-4e7fb2ae3443.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251209\f9d4b833-3f12-4410-8456-4e7fb2ae3443.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251210/0c0884e2-38b3-4301-9bf8-cc0112dbb406.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251210\0c0884e2-38b3-4301-9bf8-cc0112dbb406.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20251211/be40adff-d664-4a8b-add8-809d8ea7d28e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251211\be40adff-d664-4a8b-add8-809d8ea7d28e.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251211/f1fa3789-331e-4cff-8d9b-8aeb2134aefc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251211\f1fa3789-331e-4cff-8d9b-8aeb2134aefc.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20251212/64a757d8-db41-4b7c-b206-7f7200298205.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20251212\64a757d8-db41-4b7c-b206-7f7200298205.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260108/523776f6-c76f-4acf-8b33-b48cb8e94031.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260108\523776f6-c76f-4acf-8b33-b48cb8e94031.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260108/5a853603-0133-41ef-bd6a-c8e3067d6c1f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260108\5a853603-0133-41ef-bd6a-c8e3067d6c1f.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260114/5125a2de-ea92-4084-8fab-ec82e46848d1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260114\5125a2de-ea92-4084-8fab-ec82e46848d1.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260114/737aa3be-d9e6-4241-a663-4ce8a894e3cb.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260114\737aa3be-d9e6-4241-a663-4ce8a894e3cb.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260205/1600c263-ba9c-4c98-9e46-6879176d5758.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260205\1600c263-ba9c-4c98-9e46-6879176d5758.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260205/736b9941-19e4-41e8-9cdf-f596dfdffc50.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260205\736b9941-19e4-41e8-9cdf-f596dfdffc50.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260210/7dc9768d-8cc7-4ea6-998b-fee14d7645d6.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260210\7dc9768d-8cc7-4ea6-998b-fee14d7645d6.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260210/8ea684f9-9a82-4acc-8606-ede308f405c1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260210\8ea684f9-9a82-4acc-8606-ede308f405c1.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260210/9f2a56a9-c67f-4776-b92e-230f10731fc1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260210\9f2a56a9-c67f-4776-b92e-230f10731fc1.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260210/c59a34f0-29c1-44b1-96d0-7cb5be809345.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260210\c59a34f0-29c1-44b1-96d0-7cb5be809345.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260225/08f21ff1-6742-460f-9bcd-c05190521503.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260225\08f21ff1-6742-460f-9bcd-c05190521503.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260305/30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260305\30e1d6c1-bef4-49c8-a897-f2e3f95759d3.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260305/395cb7cf-a86c-4687-8c43-2ed47e3e3774.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260305\395cb7cf-a86c-4687-8c43-2ed47e3e3774.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260305/9bede394-204b-4410-babb-84727ccbfa9f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260305\9bede394-204b-4410-babb-84727ccbfa9f.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260325/2b53d4e4-049d-4c4d-b198-fe04c7c25c51.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260325\2b53d4e4-049d-4c4d-b198-fe04c7c25c51.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260325/e5673ee5-fa8b-4c3e-b7d4-39bd8d2ffb31.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260325\e5673ee5-fa8b-4c3e-b7d4-39bd8d2ffb31.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260401/408b606f-eafe-4eaa-b511-e382b9243b4d.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260401\408b606f-eafe-4eaa-b511-e382b9243b4d.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260402/5a9398c1-58cc-49c6-adb8-c84f16bd438a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260402\5a9398c1-58cc-49c6-adb8-c84f16bd438a.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260402/ba73c8f8-e9d8-4b84-ac89-35871f6118bf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260402\ba73c8f8-e9d8-4b84-ac89-35871f6118bf.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260415/832ca566-2ff7-48ce-aa8c-1d144b9e117b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260415\832ca566-2ff7-48ce-aa8c-1d144b9e117b.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260427/f6b7b2db-7ba1-4526-96d1-1095ac48e33c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260427\f6b7b2db-7ba1-4526-96d1-1095ac48e33c.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260428/dbf018cc-66ea-4968-94a7-af644ff40543.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260428\dbf018cc-66ea-4968-94a7-af644ff40543.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260430/14e3e18c-57bc-4623-8ed8-18e4fc444ed0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260430\14e3e18c-57bc-4623-8ed8-18e4fc444ed0.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260430/1bbf1f38-fc41-4f8a-9a5b-3f3d6bfa228a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260430\1bbf1f38-fc41-4f8a-9a5b-3f3d6bfa228a.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260430/3167a507-c015-49c7-b4bf-0820d5d56795.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260430\3167a507-c015-49c7-b4bf-0820d5d56795.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260430/6c88d28a-f015-4c33-b3c3-f17e549165a8.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260430\6c88d28a-f015-4c33-b3c3-f17e549165a8.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260430/be3a5fe5-24ea-431d-9282-12605288e674.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260430\be3a5fe5-24ea-431d-9282-12605288e674.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260502/b0210f1a-2685-41e9-9277-dfbf952375b0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260502\b0210f1a-2685-41e9-9277-dfbf952375b0.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260503/b30306e5-ff85-46ef-bb30-4237741678e5.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260503\b30306e5-ff85-46ef-bb30-4237741678e5.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260506/a0f03de1-7621-4e8b-b3d5-9c127cb54dbb.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260506\a0f03de1-7621-4e8b-b3d5-9c127cb54dbb.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260512/04c689a7-23b4-418a-b379-700d591affdd.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260512\04c689a7-23b4-418a-b379-700d591affdd.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260512/87cb5148-7936-4a24-a737-5d153e5d09cf.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260512\87cb5148-7936-4a24-a737-5d153e5d09cf.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260512/edc3ac94-8ea8-4214-b024-63e872329f1e.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260512\edc3ac94-8ea8-4214-b024-63e872329f1e.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260515/91034db5-1985-4a9d-a1c9-7ca92fd2b69d.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260515\91034db5-1985-4a9d-a1c9-7ca92fd2b69d.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260518/5c7ea21e-96aa-440d-9203-6146e87fcf87.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260518\5c7ea21e-96aa-440d-9203-6146e87fcf87.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260519/5693a9d5-c5ef-4a85-a390-b240c07081fe.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260519\5693a9d5-c5ef-4a85-a390-b240c07081fe.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260522/ab0fe6ae-4e59-44db-adf0-e529df49116c.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260522\ab0fe6ae-4e59-44db-adf0-e529df49116c.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260525/cf5ae45d-1e30-4ed1-a8a6-86d5b827a1fd.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260525\cf5ae45d-1e30-4ed1-a8a6-86d5b827a1fd.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260526/6d70e568-5427-4e94-90f9-03aefd4191ec.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260526\6d70e568-5427-4e94-90f9-03aefd4191ec.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260527/4ee4bfa0-2cf8-4650-a592-f035ed7db481.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260527\4ee4bfa0-2cf8-4650-a592-f035ed7db481.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260527/5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260527\5473f2c3-12f6-4fc5-afd5-95f5b80e47da.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260527/85cb9d7c-4edd-4279-8004-1583efe157a8.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260527\85cb9d7c-4edd-4279-8004-1583efe157a8.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260528/e764c224-aa0b-418b-adcd-90c83f8736fc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260528\e764c224-aa0b-418b-adcd-90c83f8736fc.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260529/5bfb7e89-bbfc-4387-808c-c2be5f71db55.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260529\5bfb7e89-bbfc-4387-808c-c2be5f71db55.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260607/8c0b9686-a59e-4b62-aaad-67e6edbbca5b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260607\8c0b9686-a59e-4b62-aaad-67e6edbbca5b.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260607/8cca7258-5748-49ae-9ca7-0946d7001413.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260607\8cca7258-5748-49ae-9ca7-0946d7001413.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260607/c50a5d06-7080-4ddf-add8-2a65b141eb61.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260607\c50a5d06-7080-4ddf-add8-2a65b141eb61.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260609/1d801e3d-5b19-4b62-9458-ce295a19d0f9.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260609\1d801e3d-5b19-4b62-9458-ce295a19d0f9.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260609/8cfa95f3-bc14-458b-9216-c487952e79d3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260609\8cfa95f3-bc14-458b-9216-c487952e79d3.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260609/ccc5c3d9-9690-4d0d-aaef-1c8681b16622.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260609\ccc5c3d9-9690-4d0d-aaef-1c8681b16622.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260623/c0fdf6cc-61de-4357-97af-30ac2077bbbc.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260623\c0fdf6cc-61de-4357-97af-30ac2077bbbc.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260624/4accba97-8a73-4b20-8546-61ff891c9a6e.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260624\4accba97-8a73-4b20-8546-61ff891c9a6e.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260625/004d5f7f-4d54-4919-b7f1-6002946e41c1.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260625\004d5f7f-4d54-4919-b7f1-6002946e41c1.jpg
+Content Type: image/jpeg
+
+Uri: https://r.res.easebar.com/pic/20260625/62b9865a-c227-4a4f-86c8-c521f41900cc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260625\62b9865a-c227-4a4f-86c8-c521f41900cc.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260625/a590ea25-f40e-468b-ae53-60a6b3873bc2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260625\a590ea25-f40e-468b-ae53-60a6b3873bc2.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260625/af63898b-a356-40e8-8cfd-35fbc6c05570.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260625\af63898b-a356-40e8-8cfd-35fbc6c05570.png
+Content Type: image/png
+
+Uri: https://r.res.easebar.com/pic/20260629/8921e18c-1da3-439a-963a-6fd7ce493a72.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pic\20260629\8921e18c-1da3-439a-963a-6fd7ce493a72.jpg
+Content Type: image/jpeg
+
+Uri: https://sdk-os.mpsdk.easebar.com/gzip_static/h5/v1.3.1/js/mpay-h5-sdk-oversea.umd.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\gzip_static\h5\v1.3.1\js\mpay-h5-sdk-oversea.umd.js
+Content Type: application/javascript
+
+Uri: https://sdk-os.mpsdk.easebar.com/gzip_static/h5/v1.3.3/js/mpay-h5-sdk-oversea.umd.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\gzip_static\h5\v1.3.3\js\mpay-h5-sdk-oversea.umd.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-M2REQJV8VN
+File Name: D:\Ford\www.wherewindsmeetgame.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/
+File Name: D:\Ford\www.wherewindsmeetgame.com\index.htm
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/creator_program.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\creator_program.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/favicon.ico
+File Name: D:\Ford\www.wherewindsmeetgame.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.wherewindsmeetgame.com/jm/9747.869518e9.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\9747.869518e9.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/jm/activity/3sSEXf/3acWUV?lang=en&jm_track=web_en
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\activity\3sSEXf\3acWUV.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/jm/activity/3sSSr3/3NddQA?lang=en&jm_track=web_en
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\activity\3sSSr3\3NddQA.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/jm/activity/3sSsSg/3aPyBU
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\activity\3sSsSg\3aPyBU.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/jm/activity/3sSWhK/3awEhq?lang=en
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\activity\3sSWhK\3awEhq.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/jm/favicon.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\favicon.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/jm/flexiable.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\flexiable.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/jm/main.39137dc8.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\main.39137dc8.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/jm/static/css/main.f1822a5e.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\jm\static\css\main.f1822a5e.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/m/2025h5sjgj/en/
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\2025h5sjgj\en\index.htm
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/m/2025h5sjgj/en/manifest.json
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\2025h5sjgj\en\manifest.json
+Content Type: application/json
+
+Uri: https://www.wherewindsmeetgame.com/m/gw/20251031102041/img/logo_cad00031.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\gw\20251031102041\img\logo_cad00031.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/gw/20251031210243/img/logo_e75a71e2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\gw\20251031210243\img\logo_e75a71e2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/gw/20251103100309/img/logo_e108f1b1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\gw\20251103100309\img\logo_e108f1b1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/css/index-01f16624.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\css\index-01f16624.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/css/index-5d1f26fc.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\css\index-5d1f26fc.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/fonts/AaShiSongTi-2-eddf3a4f.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\fonts\AaShiSongTi-2-eddf3a4f.woff2
+Content Type: 
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/fonts/FOTTsukuMinPr6-D-a24c8999.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\fonts\FOTTsukuMinPr6-D-a24c8999.woff2
+Content Type: 
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/fonts/hw-c5cbcc3e.ttf
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\fonts\hw-c5cbcc3e.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/fonts/SunBatang-Medium-eef19d59.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\fonts\SunBatang-Medium-eef19d59.woff2
+Content Type: 
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/bg-11508760.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\bg-11508760.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/bg-38ba1197.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\bg-38ba1197.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/bg-52578681.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\bg-52578681.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/bg-avatar-7ffb6ed8.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\bg-avatar-7ffb6ed8.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/bg-b74e3a33.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\bg-b74e3a33.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/bg_usercard2-e8900864.png?image_process=format,png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\bg_usercard2-e8900864.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/btn-2545717f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\btn-2545717f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/btn_account_bg-e765626c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\btn_account_bg-e765626c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/feature-c75362b5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\feature-c75362b5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/icon-logo-3b9b6e4d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\icon-logo-3b9b6e4d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/icon-logo-a806b977.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\icon-logo-a806b977.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/icon-logo1-c048deb0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\icon-logo1-c048deb0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/icon-logo1-s-219eaa90.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\icon-logo1-s-219eaa90.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/icon-logo2-73f1942e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\icon-logo2-73f1942e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/icon-logo3-415dbebe.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\icon-logo3-415dbebe.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/icon_rank_bg-2e0dd4ad.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\icon_rank_bg-2e0dd4ad.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/index_bg-09c1c648.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\index_bg-09c1c648.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/lang_item_active-3b2b0ff7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\lang_item_active-3b2b0ff7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/lang_item_default-98dc8a66.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\lang_item_default-98dc8a66.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/lang_select_bg-3acb2d2b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\lang_select_bg-3acb2d2b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/logo-27b7acd2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\logo-27b7acd2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/logo-ever-ab4d7a7c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\logo-ever-ab4d7a7c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/logo-f7457958.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\logo-f7457958.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/news_cover-624d4ad3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\news_cover-624d4ad3.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_bg-262d13e9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_bg-262d13e9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_bottom_bg-54cc67a4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_bottom_bg-54cc67a4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_btn_cancel-6bcfd8b8.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_btn_cancel-6bcfd8b8.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_btn_cancel-9a52642a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_btn_cancel-9a52642a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_btn_close-4b2f7fc8.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_btn_close-4b2f7fc8.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_btn_confirm-292f7edd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_btn_confirm-292f7edd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_btn_confirm-48cfa7e2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_btn_confirm-48cfa7e2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_cta_btn-d29e34f8.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_cta_btn-d29e34f8.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/popup_mascot-70a6ceec.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\popup_mascot-70a6ceec.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/pop_rules_bg-ae46c6e1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\pop_rules_bg-ae46c6e1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/qs-bg-32d6898d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\qs-bg-32d6898d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/qs-list-empty-728699b0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\qs-list-empty-728699b0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/qs-list-empty2-a1440e50.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\qs-list-empty2-a1440e50.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/section_bg-66d4d3cb.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\section_bg-66d4d3cb.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/tabbar_bg-47b1b4ac.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\tabbar_bg-47b1b4ac.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/wq-bg-99758f80.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\wq-bg-99758f80.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/wq-bg-bef-6e0ffc1a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\wq-bg-bef-6e0ffc1a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/wq-bg-empty-7637e582.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\wq-bg-empty-7637e582.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/xf-bg-23f42caf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\xf-bg-23f42caf.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/xf-bg-empty-600c28f9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\xf-bg-empty-600c28f9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/img/xf-list-empty-befb20a9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\img\xf-list-empty-befb20a9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/js/app-9b07739a.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\js\app-9b07739a.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/js/en-20afced0.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\js\en-20afced0.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/js/index-67f2100d.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\js\index-67f2100d.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/m/zt/20251121182818/otf/trajanpro-60c3185c.otf
+File Name: D:\Ford\www.wherewindsmeetgame.com\m\zt\20251121182818\otf\trajanpro-60c3185c.otf
+Content Type: application/x-font-otf
+
+Uri: https://www.wherewindsmeetgame.com/news/
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\index.htm
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/index.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\index.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/index_2.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\index_2.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/index_3.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\index_3.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/index_4.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\index_4.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/index_5.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\index_5.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/1212notice.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\1212notice.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/2025/bughunter.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\2025\bughunter.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/2025/installguide.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\2025\installguide.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/2025/thefinaltestEN.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\2025\thefinaltestEN.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/20260225/42815_1288006.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\20260225\42815_1288006.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/20260502/42815_1298917.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\20260502\42815_1298917.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/20260503/42815_1298976.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\20260503\42815_1298976.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/416update.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\416update.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/430update.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\430update.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/515update.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\515update.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/519Announcement.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\519Announcement.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/522update.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\522update.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/527update.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\527update.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/529update.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\529update.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/607XBOX.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\607XBOX.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/607XBOX2.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\607XBOX2.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/609update.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\609update.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/623faq.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\623faq.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/625update.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\625update.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/Adjustment528.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\Adjustment528.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/AntiCheat512.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\AntiCheat512.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/April30OptimizationsandFixesEN.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\April30OptimizationsandFixesEN.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/AsSnowFalls.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\AsSnowFalls.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/BanReport.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\BanReport.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/Banreport424.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\Banreport424.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/Banreport511.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\Banreport511.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/Banreport518.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\Banreport518.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/Banreport525.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\Banreport525.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/Banreport629.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\Banreport629.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/CompanionsMakeHome.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\CompanionsMakeHome.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/FlowsOfDreamsEN.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\FlowsOfDreamsEN.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/GearUp.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\GearUp.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/GlobalLaunch/CrossPlatform.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\GlobalLaunch\CrossPlatform.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/GlobalLaunch/InstallGuide.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\GlobalLaunch\InstallGuide.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/GlobalLaunch/LaunchGifts.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\GlobalLaunch\LaunchGifts.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/GlobalLaunch/SeversLive.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\GlobalLaunch\SeversLive.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/GooseStore.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\GooseStore.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/HomeAfar.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\HomeAfar.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/JAN8.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\JAN8.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/LivetoGame.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\LivetoGame.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/luckydraw.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\luckydraw.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/may6updateEN.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\may6updateEN.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/MobileFAQ.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\MobileFAQ.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/official/251123.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\official\251123.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/PVP427.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\PVP427.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/SpringsBliss.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\SpringsBliss.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/TheImperialPalace.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\TheImperialPalace.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/news/official/TimelessBonds.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\news\official\TimelessBonds.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/css/creator_program_dc851db1.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\css\creator_program_dc851db1.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/css/global_include/25v1/footer_d9d08787.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\css\global_include\25v1\footer_d9d08787.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/css/global_include/25v1/news_css_11b3cb39.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\css\global_include\25v1\news_css_11b3cb39.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/css/global_include/25v1/topmenu_d9d08787.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\css\global_include\25v1\topmenu_d9d08787.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/css/global_include/26v1/topmenu_d9d08787.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\css\global_include\26v1\topmenu_d9d08787.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/css/index_de0e1344.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\css\index_de0e1344.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/data/AlegreyaSans-Medium.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\data\AlegreyaSans-Medium.woff2
+Content Type: 
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/data/robotoregular.ttf
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\data\robotoregular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/data/share2.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\data\share2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/data/SourceHanSerifCN-SemiBold.ttf
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\data\SourceHanSerifCN-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/data/trajanprobold.ttf
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\data\trajanprobold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/arr_a2120f90.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\arr_a2120f90.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bannerCover_ff865cda.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bannerCover_ff865cda.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/banner_567e2378.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\banner_567e2378.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg-check_a412bac4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg-check_a412bac4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg-news_584fa091.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg-news_584fa091.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg-order1_2daa15f3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg-order1_2daa15f3.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg-order2_fd25b7a0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg-order2_fd25b7a0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg-status_63cc08fa.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg-status_63cc08fa.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg1_3f6ac5d3.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg1_3f6ac5d3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg2_9dcede11.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg2_9dcede11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg3_612717d7.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg3_612717d7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg4_6d4f92e0.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg4_6d4f92e0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg6_bb34f1c6.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg6_bb34f1c6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg_5bd82655.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg_5bd82655.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg_afeca46c.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg_afeca46c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg_bottom_842a4294.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg_bottom_842a4294.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/bg_top_e201ef3f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\bg_top_e201ef3f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-appstore2_cd75d864.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-appstore2_cd75d864.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-back_8890ba91.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-back_8890ba91.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-bg3_109a18f9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-bg3_109a18f9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-bg4_6a5d4e5a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-bg4_6a5d4e5a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-bg5_42e5e363.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-bg5_42e5e363.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-bgm-off_a5357df9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-bgm-off_a5357df9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-bgm-on_b9425fbd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-bgm-on_b9425fbd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-close2_c344d55d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-close2_c344d55d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-close_a6ded8eb.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-close_a6ded8eb.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-close_e018c1ec.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-close_e018c1ec.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-discord_c147946d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-discord_c147946d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-donwload-m2_0d69d0be.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-donwload-m2_0d69d0be.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-enter_8a01f14c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-enter_8a01f14c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-google2_86d7c822.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-google2_86d7c822.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-joinnow_1be17a0f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-joinnow_1be17a0f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-left-on_4dfa0fe1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-left-on_4dfa0fe1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-left_e5cfa77a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-left_e5cfa77a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-next_b0e360ae.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-next_b0e360ae.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-orderM_b89997bd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-orderM_b89997bd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-playnow2_912d2ae2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-playnow2_912d2ae2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-playnow_8a65bcce.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-playnow_8a65bcce.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-prev_b2f379e2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-prev_b2f379e2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-pre_7c659863.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-pre_7c659863.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-submit_03c2050d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-submit_03c2050d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-video2_cdb12b8c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-video2_cdb12b8c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-wish_e8f09297.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-wish_e8f09297.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn-x_0d416aba.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn-x_0d416aba.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn_email_bc7d9f93.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn_email_bc7d9f93.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn_sjgj_039d3587.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn_sjgj_039d3587.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn_top_down_bed9c9ae.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn_top_down_bed9c9ae.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/btn_video_dbe6398f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\btn_video_dbe6398f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/caidan_4208dc9f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\caidan_4208dc9f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/close-btn_62d5bbb3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\close-btn_62d5bbb3.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/cover1_7860da0e.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\cover1_7860da0e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/cover2_50600b8f.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\cover2_50600b8f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/discord_3b0aa5bf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\discord_3b0aa5bf.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/email_90f3b993.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\email_90f3b993.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/Epic_29857cc4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\Epic_29857cc4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/facebook_b1374682.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\facebook_b1374682.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/float_order_btn1_a3dfd50f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\float_order_btn1_a3dfd50f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/float_order_btn20260625_5d5cf3b4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\float_order_btn20260625_5d5cf3b4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/footer-bg_5938ee55.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\footer-bg_5938ee55.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-discord_ffd76155.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-discord_ffd76155.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-facebook_cee2733d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-facebook_cee2733d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-instagram_0e7de954.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-instagram_0e7de954.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-logo1_1b4ef092.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-logo1_1b4ef092.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-logo2_67623850.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-logo2_67623850.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-reddit_20811278.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-reddit_20811278.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-tiktok_d22f8248.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-tiktok_d22f8248.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-twitter_5e0ea913.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-twitter_5e0ea913.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ft-youtube_b6bc92f5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ft-youtube_b6bc92f5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/hover-bg_a2042d31.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\hover-bg_a2042d31.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/icon-back_2bf37ff3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\icon-back_2bf37ff3.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/icon-check-on_2e642524.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\icon-check-on_2e642524.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/icon-check_ebca52a5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\icon-check_ebca52a5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/icon-l_8212ce6e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\icon-l_8212ce6e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/icon-r_093007c1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\icon-r_093007c1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/icon_lang_cd9783b2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\icon_lang_cd9783b2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/icon_xl_927bf002.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\icon_xl_927bf002.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/instagram_082080b3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\instagram_082080b3.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/ipt-bg_f7b4f092.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\ipt-bg_f7b4f092.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/lang-arrow_ac906a03.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\lang-arrow_ac906a03.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/lang-icon_5a795d5f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\lang-icon_5a795d5f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/lang-on_a26d2d4c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\lang-on_a26d2d4c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/left_bg_48e482fd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\left_bg_48e482fd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/left_i2_508a36f3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\left_i2_508a36f3.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/left_i_1837092e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\left_i_1837092e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/left_line_7e066716.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\left_line_7e066716.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/line_49699e4f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\line_49699e4f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/line_bc412a5c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\line_bc412a5c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/line_f2ffa965.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\line_f2ffa965.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/logo2_fdd9ba60.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\logo2_fdd9ba60.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/logo_38c7f815.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\logo_38c7f815.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/map_pop_c72c21e4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\map_pop_c72c21e4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/mask_b9bb82bc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\mask_b9bb82bc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_gallery_btn_download_eab22dd4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_gallery_btn_download_eab22dd4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_gallery_btn_line_ae5ee3dc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_gallery_btn_line_ae5ee3dc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_gallery_btn_next_47d9899d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_gallery_btn_next_47d9899d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_gallery_btn_prev_6ddec8f7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_gallery_btn_prev_6ddec8f7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_gallery_btn_video_7803c24e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_gallery_btn_video_7803c24e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_gallery_cover_border_1f99add9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_gallery_cover_border_1f99add9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_gallery_mask_bedb1410.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_gallery_mask_bedb1410.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg1_55adab77.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg1_55adab77.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg1_h_c3f6945c.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg1_h_c3f6945c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg2_2412dc99.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg2_2412dc99.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg2_h_beec6a0f.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg2_h_beec6a0f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg3_cc8364e0.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg3_cc8364e0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg3_h_427c029b.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg3_h_427c029b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg4_58ac36bf.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg4_58ac36bf.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg4_h_61acf36c.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg4_h_61acf36c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg5_a41d1ff0.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg5_a41d1ff0.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_bg5_h_343f944b.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_bg5_h_343f944b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn1_b8c3aad7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn1_b8c3aad7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn1_h_de3e9d2b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn1_h_de3e9d2b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn2_8db5630c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn2_8db5630c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn2_h_c8c73259.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn2_h_c8c73259.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn3_4fd59104.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn3_4fd59104.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn3_h_9a172d74.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn3_h_9a172d74.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn4_2b601fa5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn4_2b601fa5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn4_h_c60f54cf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn4_h_c60f54cf.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn5_99f519cf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn5_99f519cf.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn5_h_c5bab78b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn5_h_c5bab78b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_btn_more_29bebae3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_btn_more_29bebae3.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_menu_mask_eefb8e92.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_menu_mask_eefb8e92.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_bg_2bb1871b.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_bg_2bb1871b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_btn_back_d6c65d98.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_btn_back_d6c65d98.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_btn_next_4e570e70.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_btn_next_4e570e70.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_btn_pause_aaef7b3f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_btn_pause_aaef7b3f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_btn_play_a6911059.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_btn_play_a6911059.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_btn_prev_6424a2d8.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_btn_prev_6424a2d8.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_playlist_col_c8cf0683.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_playlist_col_c8cf0683.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_playlist_item_19a60f3f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_playlist_item_19a60f3f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_playlist_music_fedc86dc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_playlist_music_fedc86dc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_playlist_row_43ddeda7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_playlist_row_43ddeda7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_playlist_row_h_0d2f1434.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_playlist_row_h_0d2f1434.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/media_player_waveform_582703af.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\media_player_waveform_582703af.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav-line5_9bd8f466.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav-line5_9bd8f466.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_arrow_8b8094f9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_arrow_8b8094f9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_arrow_d59e8c65.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_arrow_d59e8c65.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_arrow_h_d83eec6a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_arrow_h_d83eec6a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_hs2_1_arrow_a4db450e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_hs2_1_arrow_a4db450e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon1_df0f8ae6.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon1_df0f8ae6.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon2_1_4c939daf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon2_1_4c939daf.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon2_2_6341fa7f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon2_2_6341fa7f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon2_3_eea9b2a1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon2_3_eea9b2a1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon2_4_a8ad667f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon2_4_a8ad667f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon2_b9847ef0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon2_b9847ef0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon3_310c16a5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon3_310c16a5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon4_2eb9d416.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon4_2eb9d416.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon5_1_7f5520ba.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon5_1_7f5520ba.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon5_2_dfbba437.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon5_2_dfbba437.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon5_7bced7ec.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon5_7bced7ec.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon6_838a6c3b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon6_838a6c3b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon7_530a4d5f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon7_530a4d5f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_icon8_eec285fc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_icon8_eec285fc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic10_ae48c3bd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic10_ae48c3bd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic11_6fcff5a5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic11_6fcff5a5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic12_113158d3.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic12_113158d3.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic13_70020de5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic13_70020de5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic16_673c9ff2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic16_673c9ff2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic18_6eff2ee5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic18_6eff2ee5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic19_e68b5199.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic19_e68b5199.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic1_0506d2a6.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic1_0506d2a6.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic20_8b1c5605.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic20_8b1c5605.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic21_eec285fc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic21_eec285fc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic2_fda4927e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic2_fda4927e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic3_536d70f9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic3_536d70f9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic4_20e2816d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic4_20e2816d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nav_pic5_e69d516d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nav_pic5_e69d516d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/newsbg-top_8a31b624.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\newsbg-top_8a31b624.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/newsitem-bg_1492ac3e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\newsitem-bg_1492ac3e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/newsItem_96a99825.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\newsItem_96a99825.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/news_box_bg_0bfecb9d.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\news_box_bg_0bfecb9d.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/news_tit_after_26dd3225.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\news_tit_after_26dd3225.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/news_tit_before_6df57c54.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\news_tit_before_6df57c54.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/news_tit_bg_9f3441cb.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\news_tit_bg_9f3441cb.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/new_fc_276de14c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\new_fc_276de14c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/next-btn-on_6d97902b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\next-btn-on_6d97902b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/next-btn_1c6ec268.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\next-btn_1c6ec268.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nodata.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nodata.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/nodata2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\nodata2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/part3-img2_08f98ce7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\part3-img2_08f98ce7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/part3-img3_d0c2ed45.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\part3-img3_d0c2ed45.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/part3-img4_417f3539.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\part3-img4_417f3539.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/plat-epic_492217f7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\plat-epic_492217f7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/plat-ps_fb6a529d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\plat-ps_fb6a529d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/plat-steam_b1f664c4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\plat-steam_b1f664c4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/plat-xbox_7c6eab39.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\plat-xbox_7c6eab39.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/point-on_d60a37fe.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\point-on_d60a37fe.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/point_146b41f9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\point_146b41f9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/pop-bg2_79482ce2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\pop-bg2_79482ce2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/pop-bg_6b0decdf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\pop-bg_6b0decdf.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/pop_4a93eb60.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\pop_4a93eb60.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/pop_order_success3_c8000b4f.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\pop_order_success3_c8000b4f.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/pop_yyyl_ecc36d8f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\pop_yyyl_ecc36d8f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/pop_zt_cce37c92.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\pop_zt_cce37c92.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/prev-btn-on_2a2ca296.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\prev-btn-on_2a2ca296.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/prev-btn_5d5c8c47.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\prev-btn_5d5c8c47.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/PS_20b771f8.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\PS_20b771f8.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/p_dsj_dian2_a45bc9f5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\p_dsj_dian2_a45bc9f5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/p_dsj_dian_2626f596.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\p_dsj_dian_2626f596.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/p_dsj_lock_e0fca2ac.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\p_dsj_lock_e0fca2ac.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/reddit_dea1ab67.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\reddit_dea1ab67.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/scroll-tip_31050ce9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\scroll-tip_31050ce9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/shadow2_4f59fe09.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\shadow2_4f59fe09.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/shadow_ace17fbe.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\shadow_ace17fbe.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/sidebar2_cc965a2b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\sidebar2_cc965a2b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/slogan5_a26619bd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\slogan5_a26619bd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/Steam_9a20b557.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\Steam_9a20b557.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-1-on_906af4d7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-1-on_906af4d7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-1_efd6dc00.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-1_efd6dc00.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-2-on_c4d329c1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-2-on_c4d329c1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-2_93ab75d7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-2_93ab75d7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-3-on_f308885d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-3-on_f308885d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-3_8f85361f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-3_8f85361f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-4-on_e09e47be.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-4-on_e09e47be.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-4_07e41ce1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-4_07e41ce1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-on2_13b75cb2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-on2_13b75cb2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-on2_42c02b6f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-on2_42c02b6f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-on_0c88609f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-on_0c88609f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tab-on_e7ba30fc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tab-on_e7ba30fc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/time-line_1d25e969.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\time-line_1d25e969.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tit-1_b92c412f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tit-1_b92c412f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tit-check_8ae48aee.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tit-check_8ae48aee.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tit-getStatus_3beb6336.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tit-getStatus_3beb6336.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tit-noStatus_6a86869f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tit-noStatus_6a86869f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tit2_ba8214fd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tit2_ba8214fd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tit3_1ccff791.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tit3_1ccff791.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/tit4_52ecc978.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\tit4_52ecc978.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/title_89805b62.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\title_89805b62.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/title_ac18ef08.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\title_ac18ef08.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/top-icon_d41a6086.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\top-icon_d41a6086.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/topbar-bg_225e2836.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\topbar-bg_225e2836.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/twitter_bd47d092.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\twitter_bd47d092.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq1_btn_f72cea3c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq1_btn_f72cea3c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq1_btn_h_20741cc2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq1_btn_h_20741cc2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq2_btn_8136edaa.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq2_btn_8136edaa.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq2_btn_h_2377cecf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq2_btn_h_2377cecf.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq3_btn_3e02abda.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq3_btn_3e02abda.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq3_btn_h_a7432e18.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq3_btn_h_a7432e18.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq4_btn_7a3161f2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq4_btn_7a3161f2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq4_btn_h_211ea1dc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq4_btn_h_211ea1dc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq5_btn_7ccf9f91.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq5_btn_7ccf9f91.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq5_btn_h_d495f4b7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq5_btn_h_d495f4b7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq6_btn_211793e9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq6_btn_211793e9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq6_btn_h_dbb11c40.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq6_btn_h_dbb11c40.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq7_btn_97fe749b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq7_btn_97fe749b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/wq7_btn_h_e1afa226.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\wq7_btn_h_e1afa226.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/youtube_d5280524.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\youtube_d5280524.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/img/yying-tit2_1525ed2d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\img\yying-tit2_1525ed2d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/js/creator_program_ade5cbcb.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\js\creator_program_ade5cbcb.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/js/global_include/25v1/news_js_841864fd.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\js\global_include\25v1\news_js_841864fd.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/js/global_include/26v1/topmenu_31d6cfe0.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\js\global_include\26v1\topmenu_31d6cfe0.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/js/index_033bb645.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\js\index_033bb645.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/pc/gw/20251024112521/js/vendor_96c8e138.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\gw\20251024112521\js\vendor_96c8e138.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/css/main-5d49e9d4.css
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\css\main-5d49e9d4.css
+Content Type: text/css
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/fonts/AaShiSongTi-2-eddf3a4f.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\fonts\AaShiSongTi-2-eddf3a4f.woff2
+Content Type: 
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/fonts/FOTTsukuMinPr6-D-a24c8999.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\fonts\FOTTsukuMinPr6-D-a24c8999.woff2
+Content Type: 
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/fonts/hw-c5cbcc3e.ttf
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\fonts\hw-c5cbcc3e.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/fonts/SunBatang-Medium-eef19d59.woff2
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\fonts\SunBatang-Medium-eef19d59.woff2
+Content Type: 
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-btn-4c756881.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-btn-4c756881.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-btn-a7c5e608.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-btn-a7c5e608.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-btn-big-e46eef05.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-btn-big-e46eef05.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-check-37e6a753.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-check-37e6a753.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-check-6abfc7fb.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-check-6abfc7fb.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-check-h-641a2ca7.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-check-h-641a2ca7.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-check-h-b02635ef.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-check-h-b02635ef.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-connect-12df1d81.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-connect-12df1d81.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-connect-d7efa614.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-connect-d7efa614.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-faq-text-7e73245d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-faq-text-7e73245d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-faq-text-aaca6c77.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-faq-text-aaca6c77.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-icon-258a4e87.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-icon-258a4e87.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-icon-5d7c50f4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-icon-5d7c50f4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-inner-1cdd7c21.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-inner-1cdd7c21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-inner-73114b8c.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-inner-73114b8c.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-kv4-22ed365a.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-kv4-22ed365a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-kv4-9fbc5c46.jpg
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-kv4-9fbc5c46.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-lang-9621a267.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-lang-9621a267.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-login-31bfac6b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-login-31bfac6b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-menu-0711648b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-menu-0711648b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-menu-line-d037c41e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-menu-line-d037c41e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-pop-long2-20df8001.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-pop-long2-20df8001.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-pop-long2-dfbb123d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-pop-long2-dfbb123d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-pop2-5edcb8d0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-pop2-5edcb8d0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-pop2-84d4f6e8.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-pop2-84d4f6e8.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-reward-f77dc8fa.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-reward-f77dc8fa.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-reward6-7843e771.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-reward6-7843e771.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-reward6-a87aa70a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-reward6-a87aa70a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-role-check-c6f16323.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-role-check-c6f16323.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-role-check-e3091c02.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-role-check-e3091c02.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-1-089b1bd5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-1-089b1bd5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-1-570d6d9a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-1-570d6d9a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-1-6f79fa44.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-1-6f79fa44.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-1-75bcbf49.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-1-75bcbf49.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-1-a0aad8ba.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-1-a0aad8ba.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-1-aed3ced0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-1-aed3ced0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-1-b62acbf0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-1-b62acbf0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-1-fcdb3271.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-1-fcdb3271.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-2-3bd7c1e9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-2-3bd7c1e9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-2-5ad06508.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-2-5ad06508.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-2-6c6e863c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-2-6c6e863c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-2-7058f18a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-2-7058f18a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-2-819ba469.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-2-819ba469.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-2-b16ffd00.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-2-b16ffd00.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-2-d1973ded.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-2-d1973ded.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-2-d4b8b007.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-2-d4b8b007.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-3-0e0291d1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-3-0e0291d1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-3-452bcf62.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-3-452bcf62.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-3-650ff4fa.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-3-650ff4fa.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-3-6784edee.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-3-6784edee.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-3-afbd8516.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-3-afbd8516.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-3-d46da280.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-3-d46da280.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-3-d4dbab28.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-3-d4dbab28.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-3-e54aa593.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-3-e54aa593.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-4-1c5334ab.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-4-1c5334ab.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-4-3530a51f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-4-3530a51f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-4-7e291c39.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-4-7e291c39.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-4-a3db801f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-4-a3db801f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-4-ac5a829b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-4-ac5a829b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-4-d08bc82d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-4-d08bc82d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-step-4-f785e924.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-step-4-f785e924.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-title-before-6870ba41.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-title-before-6870ba41.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-title-before-ef0138cb.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-title-before-ef0138cb.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-title-before2-c3505211.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-title-before2-c3505211.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-title-before2-de003d9f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-title-before2-de003d9f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-title-before3-31f03773.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-title-before3-31f03773.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-title-before3-b0459126.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-title-before3-b0459126.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-tv-b944bf5a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-tv-b944bf5a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-tv-d8824223.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-tv-d8824223.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/bg-twitch-3767d878.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\bg-twitch-3767d878.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/box-select-1aa0e0eb.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\box-select-1aa0e0eb.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/box-select-b267d1a5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\box-select-b267d1a5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-close-6e236b40.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-close-6e236b40.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-close-dc51c0bd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-close-dc51c0bd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-menu-b1328689.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-menu-b1328689.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-menu-close-17fed73a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-menu-close-17fed73a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-music-play-18cac5dc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-music-play-18cac5dc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-music-play-e97b7f3a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-music-play-e97b7f3a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-music-stop-62cfb293.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-music-stop-62cfb293.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-music-stop-d91c4f49.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-music-stop-d91c4f49.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-pop-85e11b69.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-pop-85e11b69.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/btn-pop-9f4ae19a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\btn-pop-9f4ae19a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-check-3d699225.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-check-3d699225.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-check-43448e52.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-check-43448e52.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-discord-39706f7f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-discord-39706f7f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-discord-7cb3aaea.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-discord-7cb3aaea.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-facebook-9f69299e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-facebook-9f69299e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-facebook-d80e443e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-facebook-d80e443e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-instagram-47dd9252.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-instagram-47dd9252.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-instagram-f5b9b5b0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-instagram-f5b9b5b0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-lang-8f9a7e1d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-lang-8f9a7e1d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-lang-on-8bc56949.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-lang-on-8bc56949.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-line-b7c5f973.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-line-b7c5f973.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-0cc8a617.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-0cc8a617.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-3b9b6e4d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-3b9b6e4d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-405c7adc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-405c7adc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-43918ab9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-43918ab9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-4887fb74.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-4887fb74.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-7913442e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-7913442e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-a806b977.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-a806b977.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-d3457a80.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-d3457a80.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo-f7457958.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo-f7457958.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo1-6600f03c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo1-6600f03c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo1-c048deb0.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo1-c048deb0.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo1-s-219eaa90.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo1-s-219eaa90.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo2-0411f4f4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo2-0411f4f4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo2-73f1942e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo2-73f1942e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo2-a3326686.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo2-a3326686.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo2-cc14b757.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo2-cc14b757.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo3-415dbebe.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo3-415dbebe.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo3-74911712.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo3-74911712.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo3-ceeb6c4b.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo3-ceeb6c4b.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-logo3-f15eee17.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-logo3-f15eee17.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-naver-05f02b0d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-naver-05f02b0d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-naver-0f107348.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-naver-0f107348.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-reddit-e6c5f76f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-reddit-e6c5f76f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-reddit-f3caa3d9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-reddit-f3caa3d9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-refresh-4133f2a6.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-refresh-4133f2a6.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-refresh-9b50e117.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-refresh-9b50e117.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-search-25d5a85c.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-search-25d5a85c.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-search-29e8fddf.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-search-29e8fddf.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-select-648ea3f5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-select-648ea3f5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-select-w-64899627.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-select-w-64899627.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-select-w2-8ab6c209.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-select-w2-8ab6c209.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-tiktok-05e953a9.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-tiktok-05e953a9.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-tiktok-ead982c5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-tiktok-ead982c5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-tv-0a14d584.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-tv-0a14d584.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-tv-0ece252a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-tv-0ece252a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-twitch-0439a527.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-twitch-0439a527.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-twitch-92985c12.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-twitch-92985c12.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-x-106cc512.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-x-106cc512.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-x-ae6099d1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-x-ae6099d1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-youtube-6d68c2bd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-youtube-6d68c2bd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/icon-youtube-d1d34cce.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\icon-youtube-d1d34cce.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/slogan4-4cd2ef39.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\slogan4-4cd2ef39.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/slogan4-d217a63f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\slogan4-d217a63f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect-427a25c5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect-427a25c5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect-57b5f57f.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect-57b5f57f.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect-7a4b95b5.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect-7a4b95b5.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect-8292bf37.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect-8292bf37.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect-86519226.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect-86519226.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect-9c1642f4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect-9c1642f4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect-bc3edabd.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect-bc3edabd.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect-c1839789.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect-c1839789.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect2-0019b8d4.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect2-0019b8d4.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect2-2708d830.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect2-2708d830.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect2-4429afc1.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect2-4429afc1.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect2-58121aae.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect2-58121aae.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect2-5c60dbe2.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect2-5c60dbe2.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect2-a4517562.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect2-a4517562.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect2-b470392e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect2-b470392e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-connect2-e7848b86.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-connect2-e7848b86.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-faq-1243fa6e.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-faq-1243fa6e.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-faq-40ef7a1d.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-faq-40ef7a1d.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-faq-5fe7d702.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-faq-5fe7d702.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-faq-8fe10710.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-faq-8fe10710.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-faq-90992fce.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-faq-90992fce.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-faq-c8e200de.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-faq-c8e200de.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-faq-f180b1cc.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-faq-f180b1cc.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/img/title-faq-f533482a.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\img\title-faq-f533482a.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/js/main-27f2c440.js
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\js\main-27f2c440.js
+Content Type: application/javascript
+
+Uri: https://www.wherewindsmeetgame.com/pc/zt/20251021094435/otf/trajanpro-60c3185c.otf
+File Name: D:\Ford\www.wherewindsmeetgame.com\pc\zt\20251021094435\otf\trajanpro-60c3185c.otf
+Content Type: application/x-font-otf
+
+Uri: https://www.wherewindsmeetgame.com/privacypolicy.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\privacypolicy.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/release/head_bg.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\release\head_bg.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/release/icon_logo.png
+File Name: D:\Ford\www.wherewindsmeetgame.com\release\icon_logo.png
+Content Type: image/png
+
+Uri: https://www.wherewindsmeetgame.com/termsofuse.html
+File Name: D:\Ford\www.wherewindsmeetgame.com\termsofuse.html
+Content Type: text/html
+
+Uri: https://www.wherewindsmeetgame.com/twitchdrops/
+File Name: D:\Ford\www.wherewindsmeetgame.com\twitchdrops\index.htm
+Content Type: text/html
+
+Uri: https://yysls-build-na.fp.ps.easebar.com/file/68f9e743aa64b1cb56a24497Kikt7VqB03
+File Name: D:\Ford\www.wherewindsmeetgame.com\file\68f9e743aa64b1cb56a24497Kikt7VqB03
+Content Type: video/mp4
+
+Uri: https://yysls-build-na.fp.ps.easebar.com/file/69008f5297a847395354d389M3ai735o03
+File Name: D:\Ford\www.wherewindsmeetgame.com\file\69008f5297a847395354d389M3ai735o03
+Content Type: video/mp4
+
+Uri: https://yysls-build-na.fp.ps.easebar.com/file/69118e9af5a2b7775166e5c6e0Q84oZo03
+File Name: D:\Ford\www.wherewindsmeetgame.com\file\69118e9af5a2b7775166e5c6e0Q84oZo03
+Content Type: image/jpeg
+
+Uri: https://yysls-build-na.fp.ps.easebar.com/file/69ccddb7b6e5896e17bedacaBx5My1FJ03
+File Name: D:\Ford\www.wherewindsmeetgame.com\file\69ccddb7b6e5896e17bedacaBx5My1FJ03
+Content Type: video/mp4
+
+Uri: https://yysls-build-na.fp.ps.easebar.com/file/6a339900f95ab53867db9a85LZy75wxd03
+File Name: D:\Ford\www.wherewindsmeetgame.com\file\6a339900f95ab53867db9a85LZy75wxd03
+Content Type: audio/x-wav
+

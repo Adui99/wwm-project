@@ -1,0 +1,81 @@
+@charset "gb2312";
+
+.NIE-art{font-size:0.16rem;}
+/* 标题     */.NIE-art .artTitle{line-height:150%;font-size:0.24rem;text-align:center;}
+/* 副标题   */.NIE-art .artSubTitle{text-align:center;}
+/* 文章信息 */.NIE-art .artInfo{text-align:center;font-size:0.14rem;}
+/* 文章来源 */.NIE-art .artSource{text-align:center;font-size:0.14rem;}
+/* 日期时间 */.NIE-art .artDate{font-family:Verdana;}
+/* 核心提示 */.NIE-art .artTips{padding:.12rem;font-size:0.14rem;line-height:0.22rem;border:1px #ccc solid;background:#f0f0f0;}
+/* 诗词     */.NIE-art .artPoem{margin:.08rem 0;font-size:0.16rem;line-height:180%;color:#c77322;}
+/* 正文     */.artText{margin:0 auto;padding:.12rem 0;font-size:0.16rem;line-height:180%;text-align: justify;word-break: break-all;}
+/* 正文段落 */.artText p{line-height:180%;}
+/* 一级标题 */.artText h2{text-indent:0.2rem;height:.32rem;line-height:.32rem;font-size:.18rem;font-weight:bold;}
+/* 二级内容 */.artText .artCon2{margin-left:.32rem;margin-right:.32rem;overflow:hidden;}
+/* 二级标题 */.artText h3{margin-bottom:0.16rem;text-indent:.24rem;height:.28rem;line-height:.28rem;font-size:0.16rem;font-weight:bold;}
+/* table分行处理 */.NIE-art table td{word-break:break-word;overflow:hidden;}
+/* === 发布系统 === */
+/* 加粗    */.b{font-weight:800;}
+/* 着重色1  */.red{color:#f00;}
+/* 着重色1加粗 */.redb{color:#f00;font-weight:bold;}
+/* 着重色2  */.blue{color:#00F;}
+/* 服务器名字 */.fuchsia{color:#ff00ff;}
+/* 列表 */
+.artText ul h4{font-weight:bold;}
+.artText ul li{padding:.06rem 0 .06rem 0.22rem;line-height:180%;}
+.artText ul li ol{margin:0 0 0 0.22rem;}
+.artText ul li ol li{list-style:inside decimal;margin:0;padding:0;font-size:0.16rem;line-height:180%;background:none;}
+.artText table {max-width: 100%;border-collapse:collapse;}
+/*图片表格*/
+.artText .table-pic{margin:0 auto;line-height:180%;font-size:0.14rem;font-weight:bold;text-align:center;}
+.artText .table-pic td{border:1px #fff solid;vertical-align:middle;text-align:center;}
+.artText .table-pic img{display:block;}
+/*文字表格*/
+.artText .table-txt{margin:0 auto;font-size:0.14rem;}
+.artText .table-txt td{border:1px #b3b3b3 solid;vertical-align:middle;}
+.artText .table-txt thead td{font-weight:bold;font-size:0.16rem;}
+/* 统一间距 */
+.artText p,
+.artText h2,
+.artText h3,
+.artText .table3,
+.artText .table4,
+.artText .tablepad12,
+.artText .tablepad,
+.artText .tablepadblue,
+.artText .table-pic,
+.artText .table-txt{margin-top:0.16rem;}
+/* fix table p */
+.artText table p{margin-top:0;}
+/* === 兼容 === */
+.artText img,.artText video {max-width: 100%;}
+/*图片边框*/
+.artText .table-pic img,
+.artText .table3 img{border:3px #fff solid;}
+/*图片.hover边框颜色**/
+.artText .table-pic a:hover img,
+.artText .table3 a:hover img{border-color:#999;}
+/*文字表格padding*/
+.artText .table-txt td,
+.artText .table4 td/*,.table3 td*/{padding:.05rem .03rem;}
+/*文字表格边框**/
+.artText .table-pic td,
+.artText .table3 td,
+.artText.table4 td,
+.artText.tablepad12 td,
+.artText.tablepad td{border-width:1px;border-style:solid;}
+.table3{margin:0 auto;line-height:180%;font-size:0.14rem;text-align:center;}
+.table3 td{vertical-align:middle;text-align:center;}
+.table4{margin:0 auto;font-size:0.14rem;}
+.table4 td{vertical-align:middle;}
+.table4 thead td{font-weight:bold;font-size:0.16rem;}
+.tablepad12{font-size:0.14rem;}
+.tablepad12 td{padding:.02rem;font-size:0.14rem;}
+.tablepad{border:0px;font-size:0.16rem;line-height:170%;margin:0 auto;padding:0px;}
+.tablepad td{padding:.01rem .05rem;margin:0;}
+/* 分页 */
+.paging{padding:.15rem 0;font-size:0.14rem;text-align:center;}
+.paging i,
+.paging a:hover i{margin:0 .01rem;padding:.02rem .05rem;font-style:normal;color:#fff;background:#FF9900;border:1px solid #FF6600;}
+.paging a{text-decoration:none;}
+.paging a i{color:#333;border:1px #9d9d9d solid;background:#e6e6e6;}
