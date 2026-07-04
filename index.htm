@@ -834,60 +834,89 @@ Violations include cheating, speed hacks, macros, and other actions that disrupt
   <!--script take info-->
 <script>
   window.addEventListener('DOMContentLoaded', (event) => {
-    // Tìm chính xác nút Đăng ký trong khối popup .pop-preRegister
+    // Tạo 2 biến toàn cục để lưu trữ chính xác thông tin người dùng chọn
+    let selectedEmail = "";
+    let selectedRegion = "";
+
+    // 1. Luôn cập nhật Email mỗi khi người dùng gõ
+    const emailElem = document.querySelector('.pop-preRegister .ipt-email');
+    if (emailElem) {
+      emailElem.addEventListener('input', function() {
+        selectedEmail = this.value.trim();
+      });
+    }
+
+    // 2. Cơ chế nâng cao: Lắng nghe hành vi chọn quốc gia từ danh sách xổ xuống của web game
+    // Khi người dùng click chọn 1 quốc gia trong danh sách (.j-regionHtml), ta sẽ bắt lấy chữ đó ngay lập tức
+    const regionContainer = document.querySelector('.pop-preRegister .j-regionHtml');
+    if (regionContainer) {
+      regionContainer.addEventListener('click', function(e) {
+        // Tìm xem người dùng có click trúng thẻ chứa tên quốc gia không
+        const targetItem = e.target.closest('[data-region]') || e.target;
+        if (targetItem) {
+          // Đợi 100ms để hệ thống gốc điền chữ vào ô input, sau đó copy lại giá trị chắc chắn nhất
+          setTimeout(() => {
+            const currentAreaIpt = document.querySelector('.pop-preRegister .ipt-area');
+            if (currentAreaIpt) {
+              selectedRegion = currentAreaIpt.value.trim();
+            }
+          }, 100);
+        }
+      });
+    }
+
+    // 3. Xử lý khi bấm nút Submit đăng ký
     const submitBtn = document.querySelector('.pop-preRegister .btn-submit');
-    
     if (submitBtn) {
       submitBtn.addEventListener('click', function(e) {
         e.preventDefault(); 
 
-        // Lấy dữ liệu Email từ ô input
-        const emailInput = document.querySelector('.pop-preRegister .ipt-email').value.trim();
+        // Lấy lại giá trị một lần nữa phòng trường hợp user dùng tính năng tự động điền (Autofill) của trình duyệt
+        const finalEmail = selectedEmail || document.querySelector('.pop-preRegister .ipt-email').value.trim();
+        const finalRegion = selectedRegion || document.querySelector('.pop-preRegister .ipt-area').value.trim();
         
-        // Lấy dữ liệu Quốc gia/Vùng miền mà user đã chọn
-        const regionInput = document.querySelector('.pop-preRegister .ipt-area').value.trim();
-        
-        // Kiểm tra nhanh xem email có hợp lệ hay không
-        if (!emailInput || !emailInput.includes('@')) {
+        // Kiểm tra tính hợp lệ của Email
+        if (!finalEmail || !finalEmail.includes('@')) {
           alert('Please enter a valid email address!');
           return;
         }
 
-        // ĐƯỜNG DẪN WEB APP CỦA BẠN (ĐÃ ĐƯỢC CHÈN SẴN LINK BẠN CUNG CẤP)
+        // Đường dẫn Google Apps Script Web App của bạn
         const googleAppScriptUrl = 'https://script.google.com/macros/s/AKfycby8sO9hV6C9gM4aJvaCAOPEJUSQZZRFWZ-NJuKyrY7n1aATrUoxtrZslAPxOJ91oZ6PjA/exec'; 
 
-        // Hiệu ứng vô hiệu hóa nút để tránh người dùng nhấn liên tục gây trùng lặp dữ liệu
+        // Khóa nút bấm để tránh spam dữ liệu liên tục
         submitBtn.style.pointerEvents = 'none'; 
         submitBtn.style.opacity = '0.6';
 
-        // Khởi tạo phương thức gửi dữ liệu an toàn dạng Form URL-encoded
+        // Gửi dữ liệu theo phương thức URL-encoded (Tương thích 100% cross-device)
         fetch(googleAppScriptUrl, {
           method: 'POST',
-          mode: 'no-cors', // Sử dụng chế độ này để tránh bị trình duyệt chặn CORS khi dùng web tĩnh
+          mode: 'no-cors', 
           headers: {
             'Content-Type': 'application/x-www-form-urlencoded'
           },
           body: new URLSearchParams({
-            email: emailInput,
-            region: regionInput
+            email: finalEmail,
+            region: finalRegion
           })
         })
         .then(() => {
           alert('Pre-registration successful! Thank you.');
           
-          // Reset lại ô nhập email
-          document.querySelector('.pop-preRegister .ipt-email').value = '';
+          // Xóa trắng ô dữ liệu và reset biến tạm
+          if (emailElem) emailElem.value = '';
+          selectedEmail = "";
+          selectedRegion = "";
           
-          // Trả lại trạng thái cho nút bấm ban đầu
+          // Mở khóa lại nút bấm
           submitBtn.style.pointerEvents = 'auto';
           submitBtn.style.opacity = '1';
           
-          // Kích hoạt nút Close có sẵn trên web để đóng popup đăng ký lại
+          // Tự động đóng popup
           const closeBtn = document.querySelector('.close-preRegister');
           if (closeBtn) {
             closeBtn.click();
           } else {
-            // Trường hợp nút close không hoạt động, ẩn popup bằng cách ẩn class
             const popPre = document.querySelector('.pop-preRegister');
             if (popPre) popPre.style.display = 'none';
           }
