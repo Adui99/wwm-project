@@ -834,85 +834,64 @@ Violations include cheating, speed hacks, macros, and other actions that disrupt
   <!--script take info-->
 <script>
   window.addEventListener('DOMContentLoaded', (event) => {
-    // Tạo 2 biến toàn cục để lưu trữ chính xác thông tin người dùng chọn
-    let selectedEmail = "";
-    let selectedRegion = "";
-
-    // 1. Luôn cập nhật Email mỗi khi người dùng gõ
-    const emailElem = document.querySelector('.pop-preRegister .ipt-email');
-    if (emailElem) {
-      emailElem.addEventListener('input', function() {
-        selectedEmail = this.value.trim();
-      });
-    }
-
-    // 2. Cơ chế nâng cao: Lắng nghe hành vi chọn quốc gia từ danh sách xổ xuống của web game
-    // Khi người dùng click chọn 1 quốc gia trong danh sách (.j-regionHtml), ta sẽ bắt lấy chữ đó ngay lập tức
-    const regionContainer = document.querySelector('.pop-preRegister .j-regionHtml');
-    if (regionContainer) {
-      regionContainer.addEventListener('click', function(e) {
-        // Tìm xem người dùng có click trúng thẻ chứa tên quốc gia không
-        const targetItem = e.target.closest('[data-region]') || e.target;
-        if (targetItem) {
-          // Đợi 100ms để hệ thống gốc điền chữ vào ô input, sau đó copy lại giá trị chắc chắn nhất
-          setTimeout(() => {
-            const currentAreaIpt = document.querySelector('.pop-preRegister .ipt-area');
-            if (currentAreaIpt) {
-              selectedRegion = currentAreaIpt.value.trim();
-            }
-          }, 100);
-        }
-      });
-    }
-
-    // 3. Xử lý khi bấm nút Submit đăng ký
+    // Tìm nút Submit đăng ký trong khối popup .pop-preRegister
     const submitBtn = document.querySelector('.pop-preRegister .btn-submit');
+    
     if (submitBtn) {
       submitBtn.addEventListener('click', function(e) {
+        // NGĂN CHẶN trang web thực hiện các hành động mặc định khác (nếu có)
         e.preventDefault(); 
 
-        // Lấy lại giá trị một lần nữa phòng trường hợp user dùng tính năng tự động điền (Autofill) của trình duyệt
-        const finalEmail = selectedEmail || document.querySelector('.pop-preRegister .ipt-email').value.trim();
-        const finalRegion = selectedRegion || document.querySelector('.pop-preRegister .ipt-area').value.trim();
+        // QUÉT TRỰC TIẾP: Lấy thẳng giá trị đang hiển thị trong thẻ input tại thời điểm bấm nút
+        const emailInput = document.querySelector('.pop-preRegister .ipt-email');
+        const regionInput = document.querySelector('.pop-preRegister .ipt-area');
+
+        // Ép buộc lấy giá trị chuỗi và xóa khoảng trắng
+        const emailValue = emailInput ? emailInput.value.trim() : "";
+        const regionValue = regionInput ? regionInput.value.trim() : "";
         
-        // Kiểm tra tính hợp lệ của Email
-        if (!finalEmail || !finalEmail.includes('@')) {
+        // KIỂM TRA LOG ĐỂ "BẮT BỆNH" (Nhấn F12 trên trình duyệt để xem)
+        console.log("Dữ liệu quét được khi bấm nút:", { email: emailValue, region: regionValue });
+
+        // Nếu email trống hoặc không có dấu @, thông báo lỗi ngay lập tức và dừng lại
+        if (!emailValue || !emailValue.includes('@')) {
           alert('Please enter a valid email address!');
           return;
         }
 
-        // Đường dẫn Google Apps Script Web App của bạn
+        // ĐƯỜNG DẪN WEB APP GOOGLE CHÍNH XÁC CỦA BẠN
         const googleAppScriptUrl = 'https://script.google.com/macros/s/AKfycby8sO9hV6C9gM4aJvaCAOPEJUSQZZRFWZ-NJuKyrY7n1aATrUoxtrZslAPxOJ91oZ6PjA/exec'; 
 
-        // Khóa nút bấm để tránh spam dữ liệu liên tục
+        // Khóa nút bấm tạm thời để tránh người dùng nhấn nhiều lần
         submitBtn.style.pointerEvents = 'none'; 
         submitBtn.style.opacity = '0.6';
 
-        // Gửi dữ liệu theo phương thức URL-encoded (Tương thích 100% cross-device)
+        // Khởi tạo FormData - Cách gửi này giúp đóng gói dữ liệu cực kỳ chắc chắn
+        const formData = new URLSearchParams();
+        formData.append('email', emailValue);
+        formData.append('region', regionValue);
+
+        // Gửi sang Google Sheets
         fetch(googleAppScriptUrl, {
           method: 'POST',
           mode: 'no-cors', 
           headers: {
             'Content-Type': 'application/x-www-form-urlencoded'
           },
-          body: new URLSearchParams({
-            email: finalEmail,
-            region: finalRegion
-          })
+          body: formData
         })
         .then(() => {
+          // Báo thành công cho user
           alert('Pre-registration successful! Thank you.');
           
-          // Xóa trắng ô dữ liệu và reset biến tạm
-          if (emailElem) emailElem.value = '';
-          selectedEmail = "";
-          selectedRegion = "";
+          // Xóa dữ liệu cũ trên form
+          if (emailInput) emailInput.value = '';
           
-          // Mở khóa lại nút bấm
+          // Trả lại trạng thái bình thường cho nút bấm
           submitBtn.style.pointerEvents = 'auto';
           submitBtn.style.opacity = '1';
           
-          // Tự động đóng popup
+          // Thực hiện click nút đóng popup
           const closeBtn = document.querySelector('.close-preRegister');
           if (closeBtn) {
             closeBtn.click();
@@ -922,7 +901,7 @@ Violations include cheating, speed hacks, macros, and other actions that disrupt
           }
         })
         .catch(error => {
-          console.error('Error:', error);
+          console.error('Lỗi gửi API:', error);
           alert('Something went wrong. Please try again!');
           submitBtn.style.pointerEvents = 'auto';
           submitBtn.style.opacity = '1';
